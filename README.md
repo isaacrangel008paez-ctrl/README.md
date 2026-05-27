@@ -14,7 +14,7 @@ despues volvera a preguntar que sii deseas trabajar otro musculo
 de poner si, te dara la opcion de elegir otro musculo que deseas trabajar
 te dara los ejercicios y se cerrara el programa 
 de poner no, solo se cerrara el programa
-
+## codigo
 print ("gimnasio majeco")
 
 print ("como te llamas")
